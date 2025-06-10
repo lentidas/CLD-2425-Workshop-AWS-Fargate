@@ -1,0 +1,10 @@
+# .gitignore
+
+**/.terraform/*
+**/terraform.tfstate
+**/terraform.tfstate.backup
+**/secrets.yml
+
+**/*.drawio.bkp
+
+.DS_Store
