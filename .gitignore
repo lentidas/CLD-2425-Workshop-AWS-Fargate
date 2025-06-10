@@ -4,7 +4,8 @@
 **/terraform.tfstate
 **/terraform.tfstate.backup
 **/secrets.yml
+**/secrets-admin.yml
 
-**/*.drawio.bkp
+**/*.bin
 
 .DS_Store
